@@ -21,7 +21,7 @@ It retains the speed, simplicity, and state-of-the-art cryptography of the origi
 ## 🚀 Installation
 
 ### Linux (Client & Server)
-Use the automated scripts from the [hiddenwg-linux-compat](https://github.com/mustaddon/hiddenwg-linux-compat/#driver-installation-script) repository.
+Use the automated scripts from the [hiddenwg-linux-compat](https://github.com/mustaddon/hiddenwg-linux-compat/#quick-start) repository.
 
 ### Windows
 Download the latest installer from the [Windows Releases](https://github.com/mustaddon/hiddenwg-windows/releases/latest/) page.
